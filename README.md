@@ -22,7 +22,9 @@ El programa permite:
 - Git para guardar los cambios del proyecto
 - GitHub para publicar y compartir el código
 
-5. Integrantes del equipo
+5.Grupo#7_pfu_111
+6. Integrantes del equipo:
 -Miguel Mauricio Callisaya Loza 
 -Dalmir Calamani Palluca  
 -Ailin Melani Cabaza Mayta
+
