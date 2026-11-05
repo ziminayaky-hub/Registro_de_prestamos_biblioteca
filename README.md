@@ -32,4 +32,8 @@ El programa permite:
 -Dalmir Calamani Palluca  (dalbug03-eng)
 
 -Ailin Melani Cabaza Mayta (cabazaailin)
+<img width="3840" height="2160" alt="Captura de pantalla (3)" src="https://github.com/user-attachments/assets/fa5b75f0-6746-4c9c-8c43-3db5731cec70" />
+<img width="3840" height="2160" alt="Captura de pantalla (2)" src="https://github.com/user-attachments/assets/c62f16f2-8937-433d-89b3-19ccadc09181" />
+<img width="3840" height="2160" alt="Captura de pantalla (1)" src="https://github.com/user-attachments/assets/bebe50e1-1652-4cf5-86f8-56412dbd18d8" />
+
 
