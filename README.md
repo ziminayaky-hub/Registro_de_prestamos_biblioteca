@@ -23,6 +23,7 @@ El programa permite:
 - GitHub para publicar y compartir el código
 
 5.Grupo#7_pfu_111
+
 6. Integrantes del equipo:
 -Miguel Mauricio Callisaya Loza 
 -Dalmir Calamani Palluca  
