@@ -27,9 +27,9 @@ El programa permite:
 
 5. Integrantes del equipo:
    
--Miguel Mauricio Callisaya Loza
+-Miguel Mauricio Callisaya Loza - (ziminayaky-hub)
 
--Dalmir Calamani Palluca  
+-Dalmir Calamani Palluca  (dalbug03-eng)
 
--Ailin Melani Cabaza Mayta
+-Ailin Melani Cabaza Mayta (cabazaailin)
 
