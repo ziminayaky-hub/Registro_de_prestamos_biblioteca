@@ -23,7 +23,7 @@ def registrar():
         return
 
     prestamo = [codigo, nombre, material, dias]
-    prestamos.append(prestamo)
+    prestamo.append(prestamo)
 
     archivo = open("prestamos.txt", "a")
     archivo.write(codigo + ";" + nombre + ";" + material + ";" + str(dias) + "\n")
