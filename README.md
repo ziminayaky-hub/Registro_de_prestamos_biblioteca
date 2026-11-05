@@ -1,3 +1,5 @@
+Grupo#7_pfu_111
+
 1. Nombre y descripción del proyecto
 Sistema de Préstamos de Biblioteca
 Es un programa realizado en Python que permite registrar y consultar los préstamos de materiales de una biblioteca
@@ -22,10 +24,12 @@ El programa permite:
 - Git para guardar los cambios del proyecto
 - GitHub para publicar y compartir el código
 
-5.Grupo#7_pfu_111
 
-6. Integrantes del equipo:
--Miguel Mauricio Callisaya Loza 
+5. Integrantes del equipo:
+   
+-Miguel Mauricio Callisaya Loza
+
 -Dalmir Calamani Palluca  
+
 -Ailin Melani Cabaza Mayta
 
