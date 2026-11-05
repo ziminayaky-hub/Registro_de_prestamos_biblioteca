@@ -1,3 +1,4 @@
+[prestamos.txt](https://github.com/user-attachments/files/34430841/prestamos.txt)
 Grupo#7_pfu_111
 
 1. Nombre y descripción del proyecto
@@ -34,6 +35,10 @@ El programa permite:
 -Ailin Melani Cabaza Mayta (cabazaailin)
 <img width="3840" height="2160" alt="Captura de pantalla (3)" src="https://github.com/user-attachments/assets/fa5b75f0-6746-4c9c-8c43-3db5731cec70" />
 <img width="3840" height="2160" alt="Captura de pantalla (2)" src="https://github.com/user-attachments/assets/c62f16f2-8937-433d-89b3-19ccadc09181" />
-<img width="3840" height="2160" alt="Captura de pantalla (1)" src="https://github.com/user-attachments/assets/bebe50e1-1652-4cf5-86f8-56412dbd18d8" />
+<img widsis13960315;dalmir calamani palluca;matematicas;10
+th="3840" height="2160" alt="Captura de pantalla (1)" src="https://github.com/user-attachments/assets/bebe50e1-1652-4cf5-86f8-56412dbd18d8" />
 
+<img width="3840" height="2160" alt="Captura de pantalla (6)" src="https://github.com/user-attachments/assets/7f4711d4-9def-416c-999f-b65414029808" />
+<img width="3840" height="2160" alt="Captura de pantalla (5)" src="https://github.com/user-attachments/assets/b6207463-da9a-4943-9ffa-a9ceb8296b6c" />
+<img width="3840" height="2160" alt="Captura de pantalla (4)" src="https://github.com/user-attachments/assets/8c18a327-aa32-4b43-9268-9de9589ac185" />
 
