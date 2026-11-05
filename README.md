@@ -43,4 +43,5 @@ th="3840" height="2160" alt="Captura de pantalla (1)" src="https://github.com/us
 <img width="3840" height="2160" alt="Captura de pantalla (5)" src="https://github.com/user-attachments/assets/b6207463-da9a-4943-9ffa-a9ceb8296b6c" />
 <img width="3840" height="2160" alt="Captura de pantalla (4)" src="https://github.com/user-attachments/assets/8c18a327-aa32-4b43-9268-9de9589ac185" />
 
+prestamo regsitrado
 sis13960315;dalmir calamani palluca;matematicas;10
